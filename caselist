@@ -1,0 +1,10 @@
+4.09.stream.sh
+4.10.lmbench.sh
+4.12.single-core-compute.sh
+4.13.pi-compute.sh
+4.15.cold-boot-many-times.sh
+4.14.Unixbench.sh
+4.08.SpecJVM.sh
+4.06.SpecCPU2006.sh
+4.07.Linpack.sh
+4.11.fio.sh
